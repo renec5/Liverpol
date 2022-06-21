@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="liverpoolURL" value="https://www.liverpool.com.mx/tienda/home"/>
+		<Parameter name="testEmail" value="test_@hotmail.capa"/>
+		<Parameter name="testPassword" value="1234Test"/>		
+		<Parameter name="name" value="rana"/>		
+		<Parameter name="lastName" value="sapo"/>		
+		<Parameter name="motherLastName" value="pato"/>		
+		<Parameter name="dayOfBirth" value="18"/>		
+		<Parameter name="monthOfBirth" value="Feb"/>		
+		<Parameter name="yearOfBirth" value="1983"/>
+		<Parameter name="cellPhone" value="3311442454"/>
+		<Parameter name="verificationCode" value="123456"/>
+		<Parameter name="brandLG" value="LG"/>
+		<Parameter name="brandTCL" value="TCL"/>
+		<Parameter name="size55" value="55"/>
+		<Parameter name="size32" value="32"/>
+		<Parameter name="model" value="2022"/>
+		<Parameter name="size2" value="43"/>
+		<Parameter name="priceG5000" value="Mas de $5000"/>
+		<Parameter name="priceG5000FilterResult" value="$5000 -$10000"/>
+		
+	</TestRunParameters>
+</RunSettings>
